@@ -1,0 +1,6 @@
+{
+  "name": "Nekohunter",
+  "description": "Jasa Pengujian Tertutup (Closed Testing) Play Store dengan Garansi 100% Uang Kembali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
